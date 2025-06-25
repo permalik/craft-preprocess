@@ -1,2 +1,2 @@
-# blue-preprocess
-service:LLM Client Preprocess
+# yyyoink-preprocess
+service:Compression, Binary, and LLM Toolkit Preprocess
