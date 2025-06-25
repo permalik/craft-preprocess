@@ -22,5 +22,5 @@ WORKDIR /bin
 
 # Copy /nix/store
 COPY --from=builder /tmp/nix-store-closure /nix/store
-COPY --from=builder /tmp/build/result /blue-preprocess
-CMD ["/blue-preprocess/bin/blue-preprocess"]
+COPY --from=builder /tmp/build/result /yyyoink-preprocess
+CMD ["/yyyoink-preprocess/bin/yyyoink-preprocess"]

@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("starting blue-preprocess...")
+	fmt.Println("starting yyyoink-preprocess...")
 }
