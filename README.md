@@ -1,2 +1,2 @@
-# yyyoink-pipeline
-service:Compression, Binary, and LLM Toolkit Pipeline
+# yyyoink-preprocess
+service:Compression, Binary, and LLM Toolkit Preprocess
