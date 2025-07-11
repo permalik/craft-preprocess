@@ -1,5 +1,5 @@
 {
-  description = "yyyoink-preprocess";
+  description = "craft-preprocess";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/release-24.11";
@@ -13,7 +13,7 @@
   }:
     flake-utils.lib.eachDefaultSystem (
       system: let
-        pname = "yyyoink-preprocess";
+        pname = "craft-preprocess";
         version = "0.0.1";
         pkgs = import nixpkgs {
           inherit system;

@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("starting yyyoink-preprocess...")
+	fmt.Println("starting craft-preprocess...")
 }
